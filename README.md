@@ -37,3 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 <h3>The below diagram shows the routes of the application for better understanding</h3>
 ![Alt Text](./images/routes.jpg)
+<img src="./images/routes.jpg">
